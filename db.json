@@ -1,0 +1,218 @@
+{
+  "resumes": [
+    {
+      "fullName": "Arjun Kumar",
+      "location": "kochi",
+      "job": "Graphic Designer",
+      "email": "arjun.kumar@example.com",
+      "phone": "9876543210",
+      "linkedin": "https://www.linkedin.com/in/arjunkumar",
+      "github": "https://github.com/arjunkumar",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026'",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": 1
+    },
+    {
+      "fullName": "vasudev krishna",
+      "location": "kottayam",
+      "job": "Data Scientist",
+      "email": "vasudev@gmail.com",
+      "phone": "8745129562365",
+      "linkedin": "https://www.linkedin.com/in/vasudev",
+      "github": "https://github.com/vasudev",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": 3
+    },
+    {
+      "fullName": "Mahendran B",
+      "location": "kochi",
+      "job": "Node.js Developer",
+      "email": "mahendran@gmail.com",
+      "phone": "7418529645",
+      "linkedin": "https://www.linkedin.com/in/mahendran",
+      "github": "https://github.com/mahendran",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": 4
+    },
+    {
+      "fullName": "Joseph",
+      "location": "kochi",
+      "job": "Backend Developer",
+      "email": "josephn@gmail.com",
+      "phone": "7418529634",
+      "linkedin": "https://www.linkedin.com/in/joseph",
+      "github": "https://github.com/jeseph",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": 5
+    },
+    {
+      "fullName": "Mahendran",
+      "location": "kochi",
+      "job": "Node.js Developer",
+      "email": "mahendran@gmail.com",
+      "phone": "4568527562",
+      "linkedin": "https://www.linkedin.com/in/mahendran",
+      "github": "https://github.com/mahendran",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": 6
+    },
+    {
+      "fullName": "Kasinathan",
+      "location": "kochi",
+      "job": "Machine Learning Engineer",
+      "email": "kasinathanpb23@gmail.com",
+      "phone": "8547857622",
+      "linkedin": "https://www.linkedin.com/in/kasinathan",
+      "github": "https://github.com/kasinathan",
+      "degree": "BCA",
+      "college": "MG",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": 7
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "23/10/2026,23/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792774988/rkubhzka0cvpnezymujg.png",
+      "resumeId": 1,
+      "jobRole": "Graphic Designer",
+      "id": 1
+    },
+    {
+      "timeStamp": "23/10/2026,23/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792774991/ydfu3hcq1nrxl3a1nlr7.png",
+      "resumeId": 1,
+      "jobRole": "Graphic Designer",
+      "id": 2
+    },
+    {
+      "timeStamp": "23/10/2026,23/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792774992/vxik4erbajsnoedtuhv4.png",
+      "resumeId": 1,
+      "jobRole": "Graphic Designer",
+      "id": 3
+    },
+    {
+      "timeStamp": "23/10/2026,23/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792778075/ngwb8ad9c6eb608bas9k.png",
+      "resumeId": 1,
+      "jobRole": "Graphic Designer",
+      "id": 4
+    },
+    {
+      "timeStamp": "26/10/2026,26/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792953951/pkbo9wyqefr1xwifaph4.png",
+      "resumeId": 3,
+      "jobRole": "Data Scientist",
+      "id": 5
+    },
+    {
+      "timeStamp": "26/10/2026,26/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792953964/uyiuushww0pnnhy7ox9d.png",
+      "resumeId": 5,
+      "jobRole": "Backend Developer",
+      "id": 6
+    },
+    {
+      "timeStamp": "26/10/2026,26/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792953978/bkxpgstoqeiniwqg7wyi.png",
+      "resumeId": 4,
+      "jobRole": "Node.js Developer",
+      "id": 7
+    },
+    {
+      "timeStamp": "26/10/2026,26/10/2026",
+      "resumeIMG": "https://res.cloudinary.com/astcwnlp/image/upload/v1792953986/ifdejbaam2xun9ms82du.png",
+      "resumeId": 7,
+      "jobRole": "Machine Learning Engineer",
+      "id": 8
+    }
+  ]
+}
